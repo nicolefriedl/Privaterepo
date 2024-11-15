@@ -1,0 +1,4 @@
+- source: demo_slides.qmd
+  quarto-pub:
+    - id: d17790d7-e420-4c84-8469-d604416a1a62
+      url: 'https://nicolefriedl.quarto.pub/revealjs-demonstration-slide-deck'
